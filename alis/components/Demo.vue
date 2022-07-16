@@ -29,3 +29,9 @@ export default {
   },
 };
 </script>
+<style lang="scss" scoped>
+    /* local styles */
+    .center {
+    margin: auto;
+}
+</style>
