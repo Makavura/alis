@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "nuxt": "3.0.0-rc.5",
+    "@nuxt/typescript-build": "^2.1.0",
+    "fibers": "^5.0.1",
+    "sass": "^1.53.0",
+    "sass-loader": "^13.0.2"
+  }
+}
